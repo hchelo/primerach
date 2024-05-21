@@ -1,3 +1,4 @@
-sdfcwecf
-
-baby hellow
+git status (ver el estado)
+git add .    (configurar para actualizar)
+git commit -m "se anadio un archivo python"
+git push
